@@ -1,5 +1,5 @@
 # ManualSoftwareTestStudies
-Includes manual software test studying.
+🌺Includes manual software test studying.
 
 It includes manual software testing of various web applications with the Trello application in this area.
 
