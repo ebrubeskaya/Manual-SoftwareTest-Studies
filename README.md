@@ -1,4 +1,4 @@
-# Manual Software Test Studies
+# Manual Software Test Studies(Trello - Google Sheets)
 🌺Includes manual software test studying.
 
 It includes manual software testing of various web applications with the Trello application in this area.
